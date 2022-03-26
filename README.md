@@ -70,7 +70,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## Connect With me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/santhosh-k-292160216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
